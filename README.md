@@ -13,8 +13,8 @@ Fizz Buzz Pseudocode &amp; Program
 <p>Set counter to 1</p>
 <p>Break when counter reaches 100 </p>
 <p>Increment counter by 1 = ++</p>
-       ~ ~<p>IF number MODULUS % 3 && MODULUS % 5 === 0</p>
-            ~ ~ ~ ~<p>THEN PRINT 'fizzbuzz'</p>
+       <p>IF number MODULUS % 3 && MODULUS % 5 === 0</p>
+            <p>THEN PRINT 'fizzbuzz'</p>
        <p>ELSE IF number MODULUS % 3 === 0</p> 
             <p>THEN PRINT 'fizz'</p>
        <p>ELSE IF number MODULUS % 5 === 0</p> 
